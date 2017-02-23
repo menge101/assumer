@@ -1,0 +1,5 @@
+moto==0.4.25
+bond==1.1.0
+nose
+coverage
+coveralls
